@@ -1,5 +1,9 @@
-# test
-# House_Price_Prediction
+Data Science Dojo <br/>
+Copyright (c) 2019 - 2020
+
+---
+
+**Level:** Beginner <br/>
 **Recommended Use:** Regression Models<br/>
 **Domain:** Real Estate<br/> 
 
@@ -9,10 +13,10 @@
 
 
 ---
-![](download.jfif)
+![](310.jpg)
 ---
 
-This  data set has 414 rows and 7 columns. 
+This *beginner* level data set has 414 rows and 7 columns. 
 It provides the market historical data set of real estate valuations which are collected from Sindian Dist., New Taipei City, Taiwan.
 This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **regression modelling techniques**. 
 Feel free to explore the data set with multiple **supervised** and **unsupervised** learning techniques. 
@@ -37,4 +41,4 @@ The Following data dictionary gives more details on this data set:
 
 This data set has been sourced from the Machine Learning Repository of University of California, Irvine [Real Estate Valuation Data Set (UC Irvine)](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set).<br/> 
 The UCI page mentions the following as the original source of the data set:<br/> 
-*Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271*
+*Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271*  
